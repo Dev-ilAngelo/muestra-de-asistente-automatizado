@@ -1,0 +1,12 @@
+INSTRUCCIONES DE INSTALACIÓN EN WORDPRESS
+
+1. Subir Archivos:
+   Sube la carpeta "booking_agent" completa (con sus 3 archivos adentro) a la carpeta de tu tema activo.
+   Ruta típica: /wp-content/themes/tu-tema-activo/booking_agent/
+
+2. Activar Código:
+   Abre el archivo "functions.php" que acabamos de crear en esta carpeta.
+   Copia todo su contenido y pégalo al final del archivo "functions.php" REAL de tu tema de WordPress.
+
+3. ¡Listo!
+   El agente debería aparecer automáticamente en tu sitio web.
